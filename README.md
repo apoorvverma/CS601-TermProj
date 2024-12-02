@@ -67,16 +67,6 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 
 In terminal, run `npm run db:generate` to generate database client and `npm run db:migrate` to make sure that your database is up-to-date along with schema.
 
-11. Run the Seed Script:
-
-In the same terminal, run the following command to execute the seed script:
-
-```bash
-npm run db:seed
-```
-
-This command uses `npm` to execute the Typescript file (`scripts/seed.ts`) and writes transaction data in database.
-
 12. Verify Data in Database:
 
 Once the script completes, check your database to ensure that the transaction data has been successfully seeded.
