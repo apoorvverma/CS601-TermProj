@@ -1,8 +1,9 @@
 <a name="readme-top"></a>
 
 # Personal Finance Tracker
+## By Apoorv Verma - Term Project for MET CS 601
 
-This repository contains the code for my MET CS 602 course's term project titled Personal Finance Tracker. This webapp helps you manage your personal finances by tracking income and expenses & it also allows you to categorize transactions and visualize spending habits with charts.
+This repository contains the code for my MET CS 601 course's term project titled Personal Finance Tracker. This webapp helps you manage your personal finances by tracking income and expenses & it also allows you to categorize transactions and visualize spending habits with charts.
 
 ## :toolbox: Getting Started
 
